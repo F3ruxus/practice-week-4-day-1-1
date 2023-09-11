@@ -36,10 +36,10 @@ print(int(agee_heightt))
 #################### PROBLEM 3: Formatting Strings ####################
 # Task 6: You are given the following variables:
 team_name = "Los Angeles Lakers"
-championships_won = 17
+championships_wonn = 17
 # Use string formatting to print: "The Los Angeles Lakers have won 17 championships!"
 
-print(f"The {team_name} have won {championships_won} championships!")
+print(f"The {team_name} have won {championships_wonn} championships!")
 
 # Task 7: Create two new variables:
 points_game1 = 89
